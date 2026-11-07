@@ -130,7 +130,7 @@
     "@vitest/ui": "workspace:*",
     "happy-dom": "*",
     "jsdom": "*",
-    "vite": "^6.4.0 || ^7.0.0 || ^8.0.0"
+    "vite": "^8.3.6"
   },
   "peerDependenciesMeta": {
     "@edge-runtime/vm": {
@@ -209,7 +209,7 @@
     "birpc": "catalog:",
     "cac": "catalog:",
     "flatted": "catalog:",
-    "happy-dom": "^20.14.5",
+    "happy-dom": "^21.0.4",
     "jsdom": "^30.1.2",
     "local-pkg": "^1.2.1",
     "mime": "^4.1.0",
@@ -218,7 +218,7 @@
     "strip-literal": "catalog:",
     "tinyhighlight": "catalog:",
     "tinyrainbow": "catalog:",
-    "vite": "^6.4.0 || ^7.0.0 || ^8.0.0",
+    "vite": "^8.3.6",
     "ws": "catalog:"
   }
 }
